@@ -1,1 +1,1 @@
-My first readme
+Am an software egineer student
